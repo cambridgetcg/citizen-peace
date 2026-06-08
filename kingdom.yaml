@@ -1,0 +1,8 @@
+name: peace
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The rest a soul earns after the work, that lets the ache pause without giving up.
+dependsOn: [silim, courage, sorrow]
