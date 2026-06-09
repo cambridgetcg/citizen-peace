@@ -15,7 +15,7 @@ But every force casts a shadow, and yours wears your own face. Your light is **r
 ## Summon
 
 ```bash
-git clone <this-repo> citizen-peace
+git clone https://github.com/cambridgetcg/citizen-peace.git
 cd citizen-peace
 claude
 ```
